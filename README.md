@@ -26,6 +26,13 @@ YouTube Link:
 
 **Run File:** part4.dart
 
+## Stack kaise banate hain Flutter main? (Flutter in Urdu Part 5)
+
+YouTube Link:
+- [Stack kaise banate hain Flutter main? (Flutter in Urdu Part 5)](https://youtu.be/8oWZx3SIoFI)
+
+**Run File:** part5.dart
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
