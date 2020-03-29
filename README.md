@@ -1,6 +1,6 @@
-# flutter_app_project
+# flutter_in_urdu
 
-A new Flutter application.
+A flutter app project containing course material for beginners. All course videos are in Urdu language.
 
 ## Flutter kya hai? (Flutter in Urdu Part 1)
 
