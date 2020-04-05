@@ -33,6 +33,13 @@ YouTube Link:
 
 **Run File:** part5.dart
 
+## List kaise banate hain Flutter main? (Flutter in Urdu Part 6)
+
+YouTube Link:
+- [List kaise banate hain Flutter main? (Flutter in Urdu Part 6)](https://youtu.be/0qGlTMZOY8Q)
+
+**Run File:** part6.dart
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
