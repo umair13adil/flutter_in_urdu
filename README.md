@@ -40,6 +40,13 @@ YouTube Link:
 
 **Run File:** part6.dart
 
+## Routes kaise banate hain Flutter main? (Flutter in Urdu Part 7)
+
+YouTube Link:
+- [Routes kaise banate hain Flutter main? (Flutter in Urdu Part 7)](https://youtu.be/d5uDbddaTjE)
+
+**Run File:** part7.dart
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
