@@ -47,6 +47,13 @@ YouTube Link:
 
 **Run File:** part7.dart
 
+## Detail Page kaise banate hain Flutter main? (Flutter in Urdu Part 8)
+
+YouTube Link:
+- [Detail Page kaise banate hain Flutter main? (Flutter in Urdu Part 8)](https://youtu.be/fZYm6rNWqhY)
+
+**Run File:** part7.dart
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

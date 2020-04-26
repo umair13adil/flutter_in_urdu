@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_in_urdu/detail_page.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() => runApp(MyApp());
 
@@ -117,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ? Container(
               child: Padding(
                 padding: const EdgeInsets.all(10.0),
-                child: _buildListItem(home, width),
+                child: _buildListItem(home, width* 0.90),
               ),
               decoration: BoxDecoration(
                   border: Border.all(color: Colors.black, width: 3.0),
@@ -141,8 +142,8 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Column(
               children: <Widget>[
                 Text(home.name,
-                    style: TextStyle(color: Colors.white, fontSize: 20)),
-                Text("Price: ${home.price} Rs")
+                    style: GoogleFonts.abel(fontSize: 20, color: Colors.white),),
+                Text("Price: ${home.price} Rs",style: GoogleFonts.abel(fontSize: 14, color: Colors.black))
               ],
             ),
           ),
